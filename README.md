@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm M. Himamanth kumar from ....<br><br>- 📚 I'm currently learning Trending Technologies...<br>- ⚡ In my free time I watch some cool tutorials  , learning  new  technical skills and  I watch Football  </p>
 
 ###
 
