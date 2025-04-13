@@ -31,7 +31,7 @@
 - Land a great developer internship
 
 📫 Let's connect:
-- [LinkedIn]:https://www.linkedin.com/in/himamanth-kumar-236929263/
+- [LinkedIn].https://www.linkedin.com/in/himamanth-kumar-236929263/
 - [Email](mailto:your-madagonihimamanth@gmail.com
 - [Portfolio](https://your-portfolio-link.com)
 
