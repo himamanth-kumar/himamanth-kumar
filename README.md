@@ -1,149 +1,99 @@
-# 👋 Hi, I'm Himamanth Kumar
+# Hi, I'm Himamanth Kumar 👋
 
-🎓 **B.Tech Computer Science & Engineering** student at **Avanthi Institute of Engineering and Technology, Hyderabad**.
+🎓 B.Tech Computer Science student at Avanthi Institute of Engineering and Technology, Hyderabad.
 
-💻 I'm a **backend-focused developer** interested in building scalable, reliable, and production-oriented applications.
+I'm a **backend-focused developer** interested in building applications with Java, Spring Boot, REST APIs, and PostgreSQL. I enjoy understanding how software works under the hood, from database design and authentication to application architecture and deployment.
 
-## 🚀 What I'm Interested In
+## About Me
 
-* 🔧 Backend Development & System Design
-* ☕ Java & Spring Boot
-* 🌐 REST APIs & Web Applications
-* 🗄️ PostgreSQL & Database Design
-* 🧠 Data Structures & Algorithms
-* 🤖 AI/ML & Deep Learning
-* ⚛️ Quantum Computing
-* 🚀 Building real-world, production-grade software
+- ☕ Focused on Java and Spring Boot development
+- 🔧 Interested in backend engineering, API design, and system design
+- 🗄️ Learning database optimization and distributed systems
+- 🧠 Practicing Data Structures and Algorithms
+- 🤖 Exploring deep learning and transformer architectures
+- ⚛️ Interested in quantum computing
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages
+**Languages**
 
-* Java
-* Python
-* JavaScript
-* C++
+Java · Python · JavaScript · C++
 
-### Backend
+**Backend Development**
 
-* Spring
-* Spring Boot
-* REST APIs
-* Java Servlets & JSP
-* JDBC
-* Hibernate / JPA
+Spring Boot · Spring MVC · REST APIs · Servlets · JSP · JDBC · Hibernate/JPA
 
-### Frontend
+**Databases**
 
-* React
-* JavaScript
-* Tailwind CSS
+PostgreSQL · MongoDB
 
-### Databases
+**Frontend**
 
-* PostgreSQL
-* MongoDB
+React · HTML · CSS · Tailwind CSS
 
-### AI / ML
+**Tools & Technologies**
 
-* PyTorch
-* TensorFlow
-* Scikit-learn
+Git · GitHub · Maven · Docker · Postman · Apache Tomcat · Linux
 
-### Quantum Computing
+**AI / ML**
 
-* IBM Qiskit
-* Google Cirq
-* D-Wave Ocean SDK
+PyTorch · Transformer architectures · SentencePiece
 
-### Tools & Technologies
-
-* Git & GitHub
-* Docker
-* Maven
-* Postman
-* Apache Tomcat
-* Linux
-
-## 🧑‍💻 Featured Projects
+## Featured Projects
 
 ### 📌 PasteBin — Full-Stack Web Application
 
-A PasteBin-style application built using Java and PostgreSQL.
+A PasteBin-style application built with Java and PostgreSQL for creating and sharing text snippets.
 
-**Tech:** Java, Servlets, JSP, JDBC, PostgreSQL, Maven, Docker
+**Technologies:** Java, Servlets, JSP, JDBC, PostgreSQL, Maven, Docker
 
-* Create and share unique public paste links
-* Public, private, and unlisted visibility
-* CRUD operations
-* Password-protected pastes
-* BCrypt password hashing
-* Session management
-* MVC architecture with DAO layer
-* PostgreSQL database integration
-* Dockerized and deployed application
+- Create and share pastes through unique URLs
+- Support public, private, and unlisted visibility
+- Implement CRUD operations for paste management
+- Protect pastes with password-based access
+- Hash passwords using BCrypt
+- Manage user sessions
+- Follow MVC architecture with a DAO layer
+- Integrate PostgreSQL for persistent storage
 
-🔗 [GitHub Repository](https://github.com/himamanth-kumar/PasteBin)
+🔗 [Source Code](https://github.com/himamanth-kumar/PasteBin) · [Live Demo](https://pastebin-9fsm.onrender.com/)
 
 ### 🤖 TinyGPT — Transformer From Scratch
 
-A GPT-style decoder-only Transformer implemented from scratch using PyTorch.
+A GPT-style, decoder-only Transformer implemented in PyTorch to understand the fundamentals of language models.
 
-**Tech:** Python, PyTorch, SentencePiece
+**Technologies:** Python, PyTorch, SentencePiece
 
-Implemented core Transformer components including:
+- Implement token and positional embeddings
+- Build multi-head self-attention with causal masking
+- Implement layer normalization and residual connections
+- Develop a training and validation pipeline
+- Experiment with custom tokenization and model training
 
-* Token embeddings
-* Positional embeddings
-* Multi-head self-attention
-* Causal masking
-* Layer normalization
-* Residual connections
-* Training and validation pipeline
-* Custom tokenization
+🔗 [Source Code](https://github.com/himamanth-kumar/tiny-gpt-from-scratch)
 
-🔗 [GitHub Repository](https://github.com/himamanth-kumar/tiny-gpt-from-scratch)
+## Currently Learning
 
-## 📚 Currently Learning
+- Spring Boot and production-oriented backend development
+- Hibernate/JPA and database optimization
+- Redis and Apache Kafka
+- Docker and CI/CD
+- System design and distributed systems
+- Advanced DSA and problem-solving
 
-* Spring Boot & Backend Engineering
-* Hibernate / JPA
-* PostgreSQL & Database Optimization
-* Redis
-* Apache Kafka
-* Docker & CI/CD
-* System Design
-* Advanced Data Structures & Algorithms
-* Distributed Systems
+## Certifications
 
-## 🎯 My Current Focus
+- Quantum Computing — C-DAC / IIT Roorkee
 
-I'm currently working toward becoming a **strong backend engineer** by combining:
+## GitHub Activity
 
-**DSA + Java + Spring Boot + Databases + System Design + Distributed Systems**
+I use GitHub to build projects, experiment with new technologies, and document what I learn.
 
-My goal is to understand not just how to build applications, but **how real-world backend systems are designed, scaled, secured, and deployed.**
+## Connect With Me
 
-## 🏆 Certifications & Interests
-
-* Quantum Computing — C-DAC / IIT Roorkee
-* AI & Machine Learning
-* Quantum Computing
-* Open-source software
-* Hackathons & technical competitions
-
-## 📊 GitHub Activity
-
-I regularly use GitHub to document my learning, build projects, experiment with new technologies, and improve my engineering skills.
-
-## 📫 Connect With Me
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/himamanth-kumar-236929263/)
-* 📧 [Email](mailto:your-himamanthkumarm@gmail.com)
-  
+- 💼 [LinkedIn](https://www.linkedin.com/in/himamanth-kumar-236929263/)
+- 📧 [Email](mailto:your-himamanthkumarm@gmail.com)
 
 ---
 
-> **"Strive for progress, not perfection."**
-
-⭐ Feel free to explore my repositories and follow my journey as I build, learn, and improve.
+*"Strive for progress, not perfection."*
